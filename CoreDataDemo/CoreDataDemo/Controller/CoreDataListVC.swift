@@ -7,6 +7,7 @@
 //
 
 /*
+https://medium.com/@shawnbierman/how-to-add-core-data-to-an-existing-xcode-8-and-swift-3-project-508781b3e1c4
  http://veersuthar.com/blogs/2017/01/04/update-and-delete-in-core-data-in-ios10-swift-3/
  http://veersuthar.com/blogs/2017/01/01/how-to-use-core-data-in-ios-10-swift-3/
 */
